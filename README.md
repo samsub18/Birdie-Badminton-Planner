@@ -1,5 +1,5 @@
 # Birdie-Badminton-Planner
-To make a schedule for players and coaches to execute while Coaching
+****To make a schedule for players and coaches to execute while Coaching
 Hi ya all!
 
 Welcome to the BBP(Birdie Badminton Planner)
