@@ -1,6 +1,6 @@
 # Birdie-Badminton-Planner
 
-****To make a schedule for players and coaches to execute in a Badminton Coaching Session****
+****To make a schedule for players and coaches, and to execute in a Badminton Coaching Session****
 
 
 Hi ya all!
