@@ -158,3 +158,103 @@ Here we make a plan of warmup, Basic Drills and End drills for Beginners , Inter
 23. 11 points game
 24. Running Race
 25. Balancing shuttles [link](https://www.youtube.com/watch?v=BxQXUU6pcs0&index=44&list=PLRNqMsFL7nNu-8wlDcCGGU2WKzmQlUR3v)
+
+
+
+
+# INTERMEDIATE BATCH
+# 1. APR 5:30 - 6:30 pm (Friday) and 5:00 - 6:00 pm (Sunday) (12-15 years)
+# 2. Sobha Jasmine 6:30 - 7:30 pm (Tuesday and Wednesday) (12-16 years)
+# 3. APR 7:00 - 8:00 pm (Saturday and Sunday) (9-12 years)
+# 4. APR 10:00 - 11:00 am (Saturday and Sunday) (10-13 years)
+# 5. APR 12:00 - 1:00 pm (Saturday and Sunday) (12-16 years)
+# 6. APR 8:00 - 9:30 pm (Monday and Wednesday) (10-13 years)
+
+Warmup:
+1. Rain tap and 6 corners
+2. Plank and Leg in and out
+3. Sprints 
+4. High Knees
+5. Burpees
+6. Jumping Jacks
+7. 6 corners movement 
+8. Back V , side to side , front V and Fh toss and bkhand defence
+9. Sacche, split step and sprint
+10. High Knees and Sprint
+11. Zig Zag - sacche
+12. Zig Zag - Both legs together
+13. High plank with shoulder Tap
+14. Agility:
+    1. Rain tap
+    2. Front and back
+    3. Hip Twisters
+    4. Quick feet in and out
+    5. Split Step Exercise 
+    6. Defence action
+    7. Hexagon
+    8. Triangle
+15. Dynamic Lunges
+16. 10 Burpee , 10 mountain climber, 10 squat jumps
+17. Burpees side to side
+18. Star Jumps
+19. Squat Jumps
+20. Squat Jumps with Heel Tap
+21. Scissor Jumps
+22. Scissor Jumps and Hit
+23. 5 rounds in 5 min 
+24. Line touches
+25. Line Touches with Sacche
+26. Carioca
+27. Sacche and Jump
+28. Squat and 6 corners
+29. Duck walk
+30. Ankle Work
+31. One leg Jumps
+32. Bear Crawl
+33. High Knees and Sprint
+34. Rain tap (turn , down , jump , sprint)
+35. Split Jumps
+36. Stance Switch
+37. Relay Game
+38. Mountain Climbers
+39. 180 degree squat jumps
+40. Skiing
+41. Mirror Chase
+42. Mirror Chase with throw
+43. Throw shuttles and pickup
+44. 6 corners with direction
+45. Squat jump and forward
+46. Lateral Lunges
+47. Tuck Jumps
+48. Sprints according to court
+49. Sprint according to whistle Blow
+50. A-Skips
+
+Drills:
+1. Centre Split and Dribble (Cone in the centre) (16 Shuttles) (Fh and Bh)
+2. Forehand Toss Action and Dribble (16 shuttles) (switch to backhand side)
+3. Centre Split and Lift (Cone in the center) (16 shuttles) (Fh and Bh)
+4. Drop Action and Lift (Straight movement) (16 shuttles) (Fh and Bh)
+5. Drop Shot, dribble , toss , lift (16 shuttles X 2) (Fh and Bh)
+6. Defence, lift , Smash (18 shuttles X 2)
+7. Tap shot Practise (20 shuttles) (Fh and Bh)
+8. Smash Tap (20 shuttles X 2) 
+9. Split amd Drive Shots (20 shuttles)
+10. 3 drive shots and one smash (20 shuttles X 2)
+11. Split and Defence Practise (side to side) (20 shuttles)
+12. Toss and Defence Drill OR Lift Defence Drill (20 shuttles)
+13. Split and toss shot drill (24 shuttles X 2)
+14. High Serve, toss shot , defence , dribble , smash , drive, lift (Random)
+15. Drop shot practise (Players feeding) (Overhead and Forehand)
+16. Drop shot and dribble practise (Players Feeding)
+
+
+End Drills:
+1. Dribble Game
+2. Net Lift Game
+3. Drop shot, keep , dribble, lift drill (HC)
+4. Smash , defence , keep, lift drill (HC)
+5. Parallel Play (HC)
+6. High serve, toss , smash, defence , lift  (HC)
+7. Toss shots (HC)
+8. Drop shot , dribble , lift drill (HC)
