@@ -247,6 +247,22 @@ Drills:
 14. High Serve, toss shot , defence , dribble , smash , drive, lift (Random)
 15. Drop shot practise (Players feeding) (Overhead and Forehand)
 16. Drop shot and dribble practise (Players Feeding)
+17. Smash Shots near the net (20 X 2)
+18. SD, ST , SP, SL , SCL (25 shuttles)
+19. Serve hit catch (On the wall)
+20. Serve and Recieve (20 shuttles)
+21. Singles Match Tactics in a full court game
+22. Corner Work (with coach)
+23. Cross Court Keep shot technique
+24. Defence action and Cross Court Keep shot (20  shuttles X 2)
+25. Cross Lift Technique and Practise (Players Feed)
+26. Defence, Cross Lift, Cross Smash (18shuttles X 2)
+27. Cross Toss (20 shuttles)
+28. Cross Toss and cross keep (20shuttles X 2)
+29. Cross Court Drop shots (20shuttles X2)
+30. Cross Court Drop and cross keep (20 shuttles X 2)
+31. Cross Court Flick, wrist Movement Practise
+32. Straight , and cross flick (20 shuttles)
 
 
 End Drills:
@@ -258,3 +274,11 @@ End Drills:
 6. High serve, toss , smash, defence , lift  (HC)
 7. Toss shots (HC)
 8. Drop shot , dribble , lift drill (HC)
+9. Smash Defence game (FC group)
+10. Full Court 11 points Game
+11. Corner Work 
+12. Cross Court Keep rallies
+13. Cross Court Game
+14. Cross Tosses 
+15. Cross Drop and Cross keep drill(HC)
+16. 2 vs 1 (Straight drop , cross flick, cross drop, straight flick) (Fh and Bh) (FC)
