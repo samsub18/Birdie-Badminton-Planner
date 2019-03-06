@@ -4,7 +4,7 @@ Creating 3 types of lists:
 2. basic_drills
 3. end_drills
 
-Now Idea is to select one drill from each of the list and put all of them to another list called Day1 , Day2 and so on......
+Now Idea is to select 1 drills from each of the list and put all of them to another list called Day1 , Day2 and so on......
 And each drill is to be eliminated from the list once its chosen and transferred to another list called:
 1. comp_warmup
 2. comp_basic_drills
@@ -14,7 +14,8 @@ The drills which are present in the End Drills are to be done every alternate cl
 '''
 
 
-warmup = [
+
+warmup=[
     "Sprinting 2 courts",
     "Sprint, sacche , butt  kick",
     "6 corner random movement",
@@ -61,7 +62,7 @@ warmup = [
 ]
 
 
-basic_drills = [
+basic_drills=[
     "Ready, Toss stance, Hit (Group and leader)",
     "Backhand to forehand grip change and lift shot (16 shuttles)",
     "Only toss, fast pace (20 shuttles)",
@@ -107,7 +108,7 @@ basic_drills = [
     "Doubles Rotation"
 ]
 
-end_drills = [
+end_drills=[
     "Balloon Tap",
     "Mirror Chase",
     "Grip Change with Balloon tap",
@@ -135,154 +136,132 @@ end_drills = [
     "Balancing shuttles"
 ]
 
-day_counter = 1
+day_counter=1  
 
-comp_warmup = []
-comp_basic_drills = []
-comp_end_drills = []
+comp_warmup=[] #completed warmup exercises
+comp_basic_drills=[] #completed basic drill exercises
+comp_end_drills=[] #completed end drill exercises
 
 warmup_duration = 5
-basic_drill_duration = 45
-basic_drill_duration2 = 50
-end_drill_duration = 10
-
-year_2k19 = ["January", "February", "March", "April", "May", "June",
-             "July", "August", "September", "October", "November", "December"]
+basic_drill_duration = 25
+basic_second_drill_duration = 20
+end_drill_duration= 10 
 
 
-counter_enddrill = 0
-first_ele = 0
+counter_enddrill=0
+
+first_ele=0
+
+week_counter=1
 
 
-month = 2
-for x in range(0, 8):
-    if x == 0:
-        print(f"Schedule for {year_2k19[month]} 2019: ")
+#---------------------------------------------------------week1----------------------------------------------------------------#
+
+
+for x in range(0,8):
+    if x==0:
+        print(f"Schedule for week{week_counter}: ")
     print(" ")
     print(f"Day{day_counter} :")
-    print(
-        f"                 {warmup[first_ele]} duration : {warmup_duration} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min")
+    print(f"                 {warmup[first_ele]} duration : {warmup_duration} min\n")
+    if x==0 or x%2==0: 
+        print(f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min\n")
+        print(f"                 {basic_drills[first_ele+1]} duration: {basic_second_drill_duration}\n")
+        
     else:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration2} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min")
+        print(f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min\n")
+        print(f"                 {basic_drills[first_ele+1]} duration: {basic_drill_duration} min\n")
+        
+    if x==0 or x%2==0:
+        print(f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min\n")
         comp_end_drills.append(end_drills.pop(counter_enddrill))
-
+        
     comp_warmup.append(warmup.pop(first_ele))
     comp_basic_drills.append(basic_drills.pop(first_ele))
-    day_counter += 1
-
-
-month += 1
-day_counter = 1
+    comp_basic_drills.append(basic_drills.pop(first_ele))
+    
+    if day_counter==2:
+        break;
+        
+    day_counter+=1
+    
+#------------------------------------------------------------------------------------------------------------------------------#    
+    
+    
+    
+#--------------------------------------------------week2-----------------------------------------------------------------------#
+    
+week_counter+=1
+day_counter=1
 print(" ")
 print(" ")
 print(" ")
-for x in range(0, 8):
-    if x == 0:
-        print(f"Schedule for {year_2k19[month]} 2019: ")
+print(" ")
+for x in range(0,8):
+    if x==0:
+        print(f"Schedule for week{week_counter}: ")
     print(" ")
     print(f"Day{day_counter} :")
-    print(
-        f"                 {warmup[first_ele]} duration : {warmup_duration} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min")
+    print(f"                 {warmup[first_ele]} duration : {warmup_duration} min\n")
+    if x==0 or x%2==0: 
+        print(f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min\n")
+        print(f"                 {basic_drills[first_ele+1]} duration: {basic_second_drill_duration}\n")
     else:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration2} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min")
+        print(f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min\n")
+        print(f"                 {basic_drills[first_ele+1]} duration: {basic_drill_duration} min\n")
+        
+    if x==0 or x%2==0:
+        print(f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min\n")
         comp_end_drills.append(end_drills.pop(counter_enddrill))
-
+        
     comp_warmup.append(warmup.pop(first_ele))
     comp_basic_drills.append(basic_drills.pop(first_ele))
-    day_counter += 1
+    comp_basic_drills.append(basic_drills.pop(first_ele))
+    
+    if day_counter==2:
+        break;
+        
+    day_counter+=1
+    
+#------------------------------------------------------------------------------------------------------------------------------#    
+ 
 
-
-month += 1
-day_counter = 1
+    
+#--------------------------------------------------week3-----------------------------------------------------------------------#
+    
+week_counter+=1
+day_counter=1
 print(" ")
 print(" ")
 print(" ")
-for x in range(0, 8):
-    if x == 0:
-        print(f"Schedule for {year_2k19[month]} 2019: ")
+print(" ")
+for x in range(0,8):
+    if x==0:
+        print(f"Schedule for week{week_counter}: ")
     print(" ")
     print(f"Day{day_counter} :")
-    print(
-        f"                 {warmup[first_ele]} duration : {warmup_duration} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min")
+    print(f"                 {warmup[first_ele]} duration : {warmup_duration} min\n")
+    if x==0 or x%2==0: 
+        print(f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min\n")
+        print(f"                 {basic_drills[first_ele+1]} duration: {basic_second_drill_duration}\n")
     else:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration2} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min")
+        print(f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min\n")
+        print(f"                 {basic_drills[first_ele+1]} duration: {basic_drill_duration} min\n")
+        
+    if x==0 or x%2==0:
+        print(f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min\n")
         comp_end_drills.append(end_drills.pop(counter_enddrill))
-
+        
     comp_warmup.append(warmup.pop(first_ele))
     comp_basic_drills.append(basic_drills.pop(first_ele))
-    day_counter += 1
-
-month += 1
-day_counter = 1
-print(" ")
-print(" ")
-print(" ")
-for x in range(0, 8):
-    if x == 0:
-        print(f"Schedule for {year_2k19[month]} 2019: ")
-    print(" ")
-    print(f"Day{day_counter} :")
-    print(
-        f"                 {warmup[first_ele]} duration : {warmup_duration} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min")
-    else:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration2} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min")
-        comp_end_drills.append(end_drills.pop(counter_enddrill))
-
-    comp_warmup.append(warmup.pop(first_ele))
     comp_basic_drills.append(basic_drills.pop(first_ele))
-    day_counter += 1
-
-month += 1
-day_counter = 1
-print(" ")
-print(" ")
-print(" ")
-for x in range(0, 8):
-    if x == 0:
-        print(f"Schedule for {year_2k19[month]} 2019: ")
-    print(" ")
-    print(f"Day{day_counter} :")
-    print(
-        f"                 {warmup[first_ele]} duration : {warmup_duration} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration} min")
-    else:
-        print(
-            f"                 {basic_drills[first_ele]} duration: {basic_drill_duration2} min")
-    if x == 0 or x % 2 == 0:
-        print(
-            f"                 {end_drills[counter_enddrill]} duration: {end_drill_duration} min")
-        comp_end_drills.append(end_drills.pop(counter_enddrill))
-
-    comp_warmup.append(warmup.pop(first_ele))
-    comp_basic_drills.append(basic_drills.pop(first_ele))
-    day_counter += 1
+    
+    if day_counter==2:
+        break;
+        
+    day_counter+=1
+    
+#------------------------------------------------------------------------------------------------------------------------------#    
+ 
+# You can copy and paste the loops if you want to view future weeks schedule
+    
