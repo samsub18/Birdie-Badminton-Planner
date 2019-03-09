@@ -282,3 +282,66 @@ End Drills:
 14. Cross Tosses 
 15. Cross Drop and Cross keep drill(HC)
 16. 2 vs 1 (Straight drop , cross flick, cross drop, straight flick) (Fh and Bh) (FC)
+
+
+
+# ADVANCE BATCH
+# 1. APR 6:30 - 7:30 pm (Friday) and 5-6 pm (Saturday) (12-16 yrs)
+# 2. APR 7:30 - 8:30 pm (Friday) (12-16 yrs)
+# 3. APR 7:00 - 8:00 pm (Saturday and Sunday) (8-11 yrs)
+# 4. APR 4:00 - 5:00 pm (Sunday) (12-16 yrs)
+# 5. APR Tower2 8:30 - 10:00 pm (Tuesday and Thrusday) (12-16 yrs)
+
+
+Warmup:
+1. Hitting Hands Warmup
+2. Agility
+3. Overhead drop ,  Fh drop, dribble action
+4. Rain tap and 6 corners
+5. China Jump Smash
+6. Back V Toss action (Partner)
+7. Sprints and Pushups (Tricep and Bicep)
+8. Diving Defence Practise
+9. Lift and Defence (with partner)
+10. Mirror Chase
+11. Sprints and Split Step Exercise
+12. 
+
+Drills:
+1. 2 lifts and 2 pushes (20 shuttles X 2) (in order)
+2. Fh smash action, Fh dribble , Overhead smash action , bkh push (16 shuttles) (20 shutlles)
+3. Cross Drop and Cross court keep (Stroke Play)
+4. Cross Tosses (Stroke Play)
+5. Overhead straight drop , fh cross drop action and bkh dribble (Players Feed)
+6. Fh straight drop shot, overhead cross drop action and fh dribble (Players Feed)
+7. Hitting shot in one corner and moving to all corners (18 shuttles)
+8. Cross Court keep and Backhand Drop Shot
+9. China Jump smash, overhead one jump hit , backhand tap
+10. Ready, Touch, Smash, Tap
+11. Toss Shot, Slow Recovery
+12. Toss Shot, Slow Revcovery, Smash
+13. Backhand Toss Shot (Technique and 20 shuttlesX2)
+14. Fh dribble and Backhand Drive (20 shutlles)
+15. Defence 2 vs 1
+16. Fh Defence and Overhead Shot (20 shuttles)
+17. Lift and Defence Practise (20 shuttles)
+18. 2 vs 1 Defence Practise
+19. Side to Side Smash(20 Shuttles) (Players Feeding)
+20. Fh Cross Drop, Overhead Action and Bkh dribble (15 times)
+21. 
+
+
+
+
+End Drills:
+1. Net Lift Game
+2. Cross Court game (HC)
+3. Dribble Game (HC)
+4. Low serve, Lift , bk drop , keep , keep (HC)
+5. Calf Touching
+6. Toss Shots with Slow recovery (HC)
+7. Backhand Drop Shot and Keep (HC)
+8. HC game , where one attacks and one defends
+9. Bending Knees and Defence Drill (with tennis ball) and LD Defence Exercise [LD Defence](https://www.youtube.com/watch?v=fauVW9ZWHLc)   [Tennis Ball](https://www.youtube.com/watch?v=gcHlIy3kjl4&t=37s)
+10. Doubles Rotation HC game
+11. 
